@@ -19,7 +19,7 @@ const pageData = {
                 icon: "🎄",
                 title: "Writeup Complet - 'Le Cadeau' (BJSec CTF)",
                 description: "Writeup complet du challenge 'Le Cadeau' de BJSec CTF - Forensics, Stéganographie, OSINT et Cryptographie. Flag: CM{Y0U_4R3_KIN9_Of_5T360$!N7_079@}",
-                date: "Dec 29, 2024",
+                date: "Dec 27, 2026",
                 link: "pages/writeup-osint.html"
             },
             {
@@ -34,7 +34,7 @@ const pageData = {
                 id: 3,
                 icon: "📰",
                 title: "Présentation du Blog K1llTh3m",
-                description: "Bienvenue sur mon blog dédié à la cybersécurité, aux CTF, et au HackerLab. Découvrez ma mission, la structure du blog, et mes objectifs de progression en cybersécurité.",
+                description: "Bienvenue sur mon blog dédié à la cybersécurité, aux CTF. Découvrez ma mission, la structure du blog, et mes objectifs de progression en cybersécurité.",
                 date: "Sep 10, 2025",
                 link: "pages/presentation.html"
             }
