@@ -70,7 +70,7 @@ const fullPosts = {
         category: "Compétition CTF",
         difficulty: "Expert",
         content: `
-            <h2>Je suis ravi d'annoncer que mon équipe a remporté la première place du BJSEC Christmas CTF 2024 avec 5160 points! 🎉</h2>
+            <h2>Je suis ravi d'annoncer que mon équipe a remporté la première place du BJSEC Christmas CTF 2025 avec 5160 points! 🎉</h2>
             
             <hr style="border: none; border-top: 1px solid rgba(255,0,110,0.3); margin: 20px 0;">
             
@@ -133,7 +133,7 @@ const fullPosts = {
     'writeup-osint': {
         title: "🎄 Writeup Complet - 'Le Cadeau' (BJSec CTF)",
         icon: "🎄",
-        date: "Dec 29, 2024",
+        date: "Dec 29, 2025",
         category: "OSINT / Forensics / Stéganographie",
         difficulty: "Medium/Hard",
         content: `
@@ -309,7 +309,7 @@ Partie 2 (Quora):    Of_5T360$!N7_079@}</code></pre>
             <h2>🏆 Résultat Final</h2>
             <p><strong>Flag:</strong> <code style="color: #ff006e; font-weight: bold; font-size: 16px;">CM{Y0U_4R3_KIN9_Of_5T360$!N7_079@}</code></p>
             <p><strong>Writeup par:</strong> K1llTh3m<br>
-            <strong>Date:</strong> 29 décembre 2024<br>
+            <strong>Date:</strong> 27 décembre 2025<br>
             <strong>Event:</strong> BJSec CTF 🇧🇯<br>
             <strong>Points:</strong> 500</p>
             
@@ -814,7 +814,7 @@ $ binwalk challenge.jpg
                     <p style="color: #ccc; font-size: 14px; margin-bottom: 20px;">Cybersecurity Student || CTF Player 🚩 || CNSP || CRTA || CCSC || CRTOM</p>
                     <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
                         <span style="background: rgba(255, 0, 110, 0.2); border: 1px solid #ff006e; color: #ff006e; padding: 5px 12px; border-radius: 20px; font-size: 12px;">Challenge Maker</span>
-                        <span style="background: rgba(255, 0, 110, 0.2); border: 1px solid #ff006e; color: #ff006e; padding: 5px 12px; border-radius: 20px; font-size: 12px;">🏆 BJSEC CTF 2024</span>
+                        <span style="background: rgba(255, 0, 110, 0.2); border: 1px solid #ff006e; color: #ff006e; padding: 5px 12px; border-radius: 20px; font-size: 12px;">🏆 BJSEC CTF 2025</span>
                     </div>
                 </div>
 
